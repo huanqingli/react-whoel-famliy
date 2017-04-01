@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "semi": [2, "never"],
+    "no-unexpected-multiline": 2
+  },
+  "env": {
+    "browser": true,//认可浏览器环境,允许windos,document
+    "jest": true
+  }
+
+}
